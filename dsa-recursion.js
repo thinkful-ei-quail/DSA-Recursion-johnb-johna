@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 //Counting Sheep
 
 function sheepCounter(num) {
